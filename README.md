@@ -1,1 +1,1 @@
-Spring Boot RESTful-Auction
+Spring Boot RESTful-auction
